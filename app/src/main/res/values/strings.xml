@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DOS4GW</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_items">No items to display</string>
+    <string name="error_title">Oops! Sorry!</string>
+    <string name="error_msg">There was an error getting data.</string>
+
+    <string-array name="android_names">
+        <item>Android beta</item>
+        <item>Android 1.0</item>
+        <item>Android 1.1</item>
+        <item>Android Cupcake</item>
+        <item>Android Donut</item>
+        <item>Android Eclair</item>
+        <item>Android Froyo</item>
+
+    </string-array>
+</resources>
